@@ -8,7 +8,7 @@ function Fetching() {
     function fetchget() {
       axios
         .get(
-           " http://api.countrylayer.com/v2/all?access_key=ef414b206d85663b55c162855f8216e1"
+           "http://api.countrylayer.com/v2/all?access_key=eca4cc69a37b4723945a5cf0a7f4747a"
         )
         .then((res) => {
           // console.log(res)
